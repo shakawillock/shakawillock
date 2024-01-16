@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/shakawillock/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shakawillock/azure-network-protocols)
+  - [User Password Reset within Azure VMs](https://github.com/shakawillock/azure-user-password-reset)
 
 <!--
 <h2>Connect with me:</h2>
