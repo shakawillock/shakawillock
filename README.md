@@ -10,6 +10,9 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/shakawillock/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shakawillock/azure-network-protocols)
   - [User Password Reset within Azure VMs](https://github.com/shakawillock/azure-user-password-reset)
+- <b>Virtual Private Network
+  - [VPN Setup in Virtual Machine](https://github.com/shakawillock/vpn-setup)
+  
 
 <!--
 <h2>Connect with me:</h2>
